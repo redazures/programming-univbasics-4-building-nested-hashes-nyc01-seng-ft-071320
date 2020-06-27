@@ -59,5 +59,3 @@ monopoly={
   }
 }
 end
-
-:mortgage_value=>"100"
