@@ -35,6 +35,5 @@ monopoly =  {
 }
 
 def base_hash
-  
-end
 
+end
